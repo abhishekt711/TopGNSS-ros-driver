@@ -1,2 +1,5 @@
 # TopGNSS-ros-package
-ROS [ackage of TOP USB GNSS receiver 
+ROS package of TOP USB GNSS receiver : checked with TOP608BT USB GNSS receiver sensor, will work with all other USB GNSS sensor with NMEA0183 msg.
+
+
+
