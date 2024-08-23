@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-'''Code by Abhishek Thakur
+'''MIT License
+
+Copyright (c) 2024 abhishekt711
 mail: abhishekt711@gmail, for any error
 '''
 
